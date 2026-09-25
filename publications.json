@@ -1,0 +1,304 @@
+[
+  {
+    "title": "Whom to trust? selective online learning in multi-agent systems with prior-aware gaussian process regression",
+    "authors": "Z Yang, X Dai, A Dubey, Y Wu, X Chen, EO Awotoro, S Hirche",
+    "year": 2026,
+    "venue": "Autonomous Agents and Multi-Agent Systems 40 (2), 38, 2026",
+    "topics": [
+      "learning"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:kNdYIx-mwKoC"
+      }
+    ]
+  },
+  {
+    "title": "LLM-as-BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning",
+    "authors": "J Ao, F Wu, Y Wu, A Swiki, S Haddadin",
+    "year": 2025,
+    "venue": "ICRA 2025",
+    "topics": [
+      "planning"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:LkGwnXOMwfcC"
+      }
+    ]
+  },
+  {
+    "title": "TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation",
+    "authors": "Y Wu, Z Chen, F Wu, L Chen, L Zhang, Z Bing, A Swikir, S Haddadin, ...",
+    "year": 2025,
+    "venue": "ICRA 2025",
+    "topics": [
+      "learning",
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2409.11047"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/popnut123/TacDiffusion"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=dabpM4S9kbc"
+      }
+    ]
+  },
+  {
+    "title": "Video-to-BT: Generating Reactive Behavior Trees from Human Demonstration Videos for Robotic Assembly",
+    "authors": "X Zhao, Y Wang, Y Wu, F Wu, T Sun, Z Miao, S Haddadin, A Knoll",
+    "year": 2025,
+    "venue": "arXiv preprint · 2025",
+    "topics": [
+      "learning",
+      "tactile",
+      "planning"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2509.16611"
+      }
+    ]
+  },
+  {
+    "title": "Direction Informed Trees (DIT*): Optimal Path Planning via Direction Filter and Direction Cost Heuristic",
+    "authors": "L Zhang, K Chen, K Cai, Y Zhang, Y Dang, Y Wu, Z Bing, F Wu, ...",
+    "year": 2025,
+    "venue": "ICRA 2025",
+    "topics": [
+      "planning"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:8k81kl-MbHgC"
+      }
+    ]
+  },
+  {
+    "title": "Pretrained Bayesian non-parametric knowledge prior in robotic long-horizon reinforcement learning",
+    "authors": "Y Meng, X Yao, K Chen, Y Wu, L Zhang, Z Bing, A Knoll",
+    "year": 2025,
+    "venue": "arXiv preprint · 2025",
+    "topics": [
+      "learning"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2503.21975"
+      }
+    ]
+  },
+  {
+    "title": "SharedAssembly: A Data Collection Approach via Shared Tele-Assembly",
+    "authors": "Y Wu, X Chen, Y Chen, H Sadeghian, F Wu, Z Bing, S Haddadin, A König, ...",
+    "year": 2025,
+    "venue": "arXiv preprint · 2025",
+    "topics": [
+      "learning",
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2503.12287"
+      }
+    ]
+  },
+  {
+    "title": "A multi-dimensional tactile perception system based on triboelectric sensors: Towards intelligent sorting without seeing",
+    "authors": "T Xiao, Z Bing, Y Wu, W Chen, Z Zhou, F Fang, S Liang, R Guo, S Tu, ...",
+    "year": 2024,
+    "venue": "Nano Energy 123, 109398, 2024",
+    "topics": [
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:ufrVoPGSRksC"
+      }
+    ]
+  },
+  {
+    "title": "Humidity Stable Thermoelectric Hybrid Materials Toward a Self‐Powered Triple Sensing System",
+    "authors": "S Tu, T Tian, T Xiao, X Yao, S Shen, Y Wu, Y Liu, Z Bing, K Huang, A Knoll, ...",
+    "year": 2024,
+    "venue": "Advanced Functional Materials 34 (25), 2316088, 2024",
+    "topics": [
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:WF5omc3nYNoC"
+      }
+    ]
+  },
+  {
+    "title": "1 kHz Behavior Tree for Self-adaptable Tactile Insertion",
+    "authors": "Y Wu, F Wu, L Chen, K Chen, S Schneider, L Johannsmeier, Z Bing, ...",
+    "year": 2024,
+    "venue": "ICRA 2024",
+    "topics": [
+      "tactile",
+      "planning"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/ICRA57147.2024.10610835"
+      }
+    ]
+  },
+  {
+    "title": "Behavior tree generation using large language models for sequential manipulation planning with human instructions and feedback",
+    "authors": "J Ao, Y Wu, F Wu, S Haddadin",
+    "year": 2024,
+    "venue": "arXiv preprint · 2024",
+    "topics": [
+      "planning"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2409.09435"
+      }
+    ]
+  },
+  {
+    "title": "Ontology Based AI Planning and Scheduling for Robotic Assembly",
+    "authors": "J Zhao, B Vogel-Heuser, J Ao, Y Wu, L Zhang, F Hartl, D Hujo, Z Bing, ...",
+    "year": 2024,
+    "venue": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2024",
+    "topics": [
+      "tactile",
+      "planning"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:hqOjcs7Dif8C"
+      }
+    ]
+  },
+  {
+    "title": "Real-time contact state estimation in shape control of deformable linear objects under small environmental constraints",
+    "authors": "K Chen, Z Bing, Y Wu, F Wu, L Zhang, S Haddadin, A Knoll",
+    "year": 2024,
+    "venue": "ICRA 2024",
+    "topics": [
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:YsMSGLbcyi4C"
+      }
+    ]
+  },
+  {
+    "title": "A scalable platform for robot learning and physical skill data collection",
+    "authors": "S Schneider, Y Wu, L Johannsmeier, F Wu, S Haddadin",
+    "year": 2024,
+    "venue": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2024",
+    "topics": [
+      "learning"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:UebtZRa9Y70C"
+      }
+    ]
+  },
+  {
+    "title": "Tactile-Morph Skills: Energy-Based Control Meets Data-Driven Learning",
+    "authors": "A Zhang, K Karacan, H Sadeghian, Y Wu, F Wu, S Haddadin",
+    "year": 2024,
+    "venue": "arXiv preprint · 2024",
+    "topics": [
+      "learning",
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2408.12285"
+      }
+    ]
+  },
+  {
+    "title": "Learning dynamic robot-to-robot object handover",
+    "authors": "Y Wu, L Chen, IP Mahiques, Z Bing, F Wu, A Knoll, S Haddadin",
+    "year": 2023,
+    "venue": "IFAC-PapersOnLine 56 (2), 4368-4374, 2023",
+    "topics": [
+      "learning",
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:Y0pCki6q_DkC"
+      }
+    ]
+  },
+  {
+    "title": "Human robot interaction with triboelectric nanogenerator for tactile sensing",
+    "authors": "C Li, Y Wu, Y Liu, F Schreier, Z Bing, A Knoll, S Eivazi",
+    "year": 2023,
+    "venue": "2023 9th International Conference on Mechatronics and Robotics Engineering …, 2023",
+    "topics": [
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:Tyk-4Ss8FVUC"
+      }
+    ]
+  },
+  {
+    "title": "Combining learning from demonstration with learning by exploration to facilitate contact-rich tasks",
+    "authors": "Y Shi, Z Chen, Y Wu, D Henkel, S Riedel, H Liu, Q Feng, J Zhang",
+    "year": 2021,
+    "venue": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2021",
+    "topics": [
+      "learning",
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:zYLM7Y9cAGgC"
+      }
+    ]
+  },
+  {
+    "title": "Maximizing the use of environmental constraints: a pushing-based hybrid position/force assembly skill for contact-rich tasks",
+    "authors": "Y Shi, Z Chen, L Cong, Y Wu, M Craiu-Müller, C Yuan, C Chang, L Zhang, ...",
+    "year": 2021,
+    "venue": "ROBIO 2021",
+    "topics": [
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=ernQtWIAAAAJ&citation_for_view=ernQtWIAAAAJ:IjCSPb-OGe4C"
+      }
+    ]
+  }
+]
