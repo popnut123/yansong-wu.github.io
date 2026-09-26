@@ -35,7 +35,7 @@ With repository `popnut123/yansong-wu.github.io`, the default address is `https:
 
 This first draft uses information from:
 
-- [Google Scholar](https://scholar.google.com/citations?user=ernQtWIAAAAJ&hl=en): publication entries and portrait.
+- [Google Scholar](https://scholar.google.com/citations?user=ernQtWIAAAAJ&hl=en): publication entries.
 - [TUM profile](https://www.ce.cit.tum.de/air/people/yansong-wu-msc/): affiliation, research interests, email.
 - [TacDiffusion](https://github.com/popnut123/TacDiffusion): paper, code, and [demo video](https://www.youtube.com/watch?v=dabpM4S9kbc); video thumbnail from YouTube.
 - [VT-Bridge](https://hoxnocha.github.io/vt-bridge-web/): paper metadata, project page, and the project-page title capture used in Selected Work.

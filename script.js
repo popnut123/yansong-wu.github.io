@@ -57,7 +57,7 @@ document.querySelectorAll('.video-trigger').forEach(link => link.addEventListene
   document.querySelector('#video-title').textContent = link.dataset.title;
   document.querySelector('#video-external').href = link.href;
   const iframe = document.createElement('iframe');
-  iframe.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(link.dataset.video)}?autoplay=1&rel=0`;
+  iframe.src = `https://www.youtube.com/embed/${encodeURIComponent(link.dataset.video)}?autoplay=1&rel=0`;
   iframe.title = link.dataset.title;
   iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
   iframe.allowFullscreen = true;
