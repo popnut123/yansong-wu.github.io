@@ -1,5 +1,44 @@
 [
   {
+    "title": "VT-Bridge: Bridging Pretrained Foundation VLAs to VTLAs via Lightweight Residual Adaptation",
+    "authors": "Y Wu, T Yang, R Zhao, L Chen, X Chen, J Li, F Wu, A Knoll",
+    "year": 2026,
+    "venue": "arXiv preprint · 2026",
+    "topics": [
+      "learning",
+      "tactile"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2609.22606"
+      },
+      {
+        "label": "Project",
+        "url": "https://hoxnocha.github.io/vt-bridge-web/"
+      }
+    ]
+  },
+  {
+    "title": "React When You Need To: Event-Triggered Asynchronous Inference for VLA Policies",
+    "authors": "Y Wu, H Li, T Hou, L Chen, A Knoll",
+    "year": 2026,
+    "venue": "arXiv preprint · 2026",
+    "topics": [
+      "learning"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2609.22587"
+      },
+      {
+        "label": "Project",
+        "url": "https://react-when-you-need-to.github.io/"
+      }
+    ]
+  },
+  {
     "title": "Whom to trust? selective online learning in multi-agent systems with prior-aware gaussian process regression",
     "authors": "Z Yang, X Dai, A Dubey, Y Wu, X Chen, EO Awotoro, S Hirche",
     "year": 2026,

@@ -38,8 +38,8 @@ This first draft uses information from:
 - [Google Scholar](https://scholar.google.com/citations?user=ernQtWIAAAAJ&hl=en): publication entries and portrait.
 - [TUM profile](https://www.ce.cit.tum.de/air/people/yansong-wu-msc/): affiliation, research interests, email.
 - [TacDiffusion](https://github.com/popnut123/TacDiffusion): paper, code, and [demo video](https://www.youtube.com/watch?v=dabpM4S9kbc); video thumbnail from YouTube.
-- [SharedAssembly](https://arxiv.org/abs/2503.12287): experimental setup figure from version 2, July 2026. Its original preprint year is 2025.
-- [1 kHz Behavior Tree](https://frankiewoo.github.io/publication/wu-2024-icra/): paper illustration, used unchanged and attributed here.
+- [VT-Bridge](https://hoxnocha.github.io/vt-bridge-web/): paper metadata, project page, and the project-page title capture used in Selected Work.
+- [React When You Need To](https://react-when-you-need-to.github.io/): paper metadata, project page, and the project-page title capture used in Selected Work.
 
 Layout inspired by the spacious typography and personal/research structure of Haoyi Zhu's website. Site code was written for this project.
 
