@@ -55,6 +55,7 @@
   },
   {
     "title": "LLM-as-BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning",
+    "id": "paper-llm-as-bt-planner",
     "authors": "J Ao, F Wu, Y Wu, A Swiki, S Haddadin",
     "year": 2025,
     "venue": "ICRA 2025",
@@ -70,6 +71,7 @@
   },
   {
     "title": "TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation",
+    "id": "paper-tacdiffusion",
     "authors": "Y Wu, Z Chen, F Wu, L Chen, L Zhang, Z Bing, A Swikir, S Haddadin, ...",
     "year": 2025,
     "venue": "ICRA 2025",
@@ -94,6 +96,7 @@
   },
   {
     "title": "Video-to-BT: Generating Reactive Behavior Trees from Human Demonstration Videos for Robotic Assembly",
+    "id": "paper-video-to-bt",
     "authors": "X Zhao, Y Wang, Y Wu, F Wu, T Sun, Z Miao, S Haddadin, A Knoll",
     "year": 2025,
     "venue": "arXiv preprint · 2025",
@@ -106,6 +109,10 @@
       {
         "label": "Paper",
         "url": "https://arxiv.org/abs/2509.16611"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=e2aSRygRpyw"
       }
     ]
   },

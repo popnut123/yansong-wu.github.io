@@ -10,12 +10,13 @@ ROOT = Path(__file__).resolve().parent
 papers = json.loads((ROOT / 'publications.json').read_text())
 articles = []
 for paper in papers:
+    article_id = f' id="{escape(paper["id"], quote=True)}"' if paper.get('id') else ''
     authors = escape(paper['authors']).replace('Y Wu', '<strong>Y Wu</strong>')
     links = ''.join(
         f'<a href="{escape(link["url"], quote=True)}">{escape(link["label"])} ↗</a>'
         for link in paper['links']
     )
-    articles.append(f'''        <article class="publication" data-topics="{escape(' '.join(paper['topics']))}">
+    articles.append(f'''        <article{article_id} class="publication" data-topics="{escape(' '.join(paper['topics']))}">
           <span class="paper-year">{paper['year']}</span>
           <div><h3><a href="{escape(paper['links'][0]['url'], quote=True)}">{escape(paper['title'])}</a></h3>
             <p class="paper-authors">{authors}</p>

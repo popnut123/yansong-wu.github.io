@@ -40,6 +40,7 @@ This first draft uses information from:
 - [TacDiffusion](https://github.com/popnut123/TacDiffusion): paper, code, and [demo video](https://www.youtube.com/watch?v=dabpM4S9kbc); video thumbnail from YouTube.
 - [VT-Bridge](https://hoxnocha.github.io/vt-bridge-web/): paper metadata, project page, and the project-page title capture used in Selected Work.
 - [React When You Need To](https://react-when-you-need-to.github.io/): paper metadata, project page, and the project-page title capture used in Selected Work.
+- [Gearbox Assembly](https://youtu.be/bNXKCnwQbk8): robot demonstration and YouTube thumbnail used in Research Highlights.
 
 Layout inspired by the spacious typography and personal/research structure of Haoyi Zhu's website. Site code was written for this project.
 
