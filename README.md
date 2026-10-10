@@ -15,6 +15,7 @@ Open http://localhost:8000 in your browser. You can also open `index.html` direc
 ## Update the content
 
 - **Introduction, contact details, featured projects:** edit `index.html`.
+- **News:** add a `<li class="news-item">` at the top of the `news-list` in `index.html`, with a category, title, short update, and source link.
 - **Publications:** edit `publications.json`, then run `python3 render_publications.py`. The generated HTML is committed, so GitHub does not need to run Python.
 - **Portrait and project images:** replace files in `assets/` and update their descriptions in `index.html`.
 - **Design:** edit `styles.css`.
